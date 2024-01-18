@@ -1,0 +1,15 @@
+C:\Users\wwwsa\source\repos\Hotel.API.App\Hotel.Repositorys\bin\Debug\net6.0\Hotel.Repositorys.deps.json
+C:\Users\wwwsa\source\repos\Hotel.API.App\Hotel.Repositorys\bin\Debug\net6.0\Hotel.Repositorys.dll
+C:\Users\wwwsa\source\repos\Hotel.API.App\Hotel.Repositorys\bin\Debug\net6.0\Hotel.Repositorys.pdb
+C:\Users\wwwsa\source\repos\Hotel.API.App\Hotel.Repositorys\bin\Debug\net6.0\Hotel.App.Data.dll
+C:\Users\wwwsa\source\repos\Hotel.API.App\Hotel.Repositorys\bin\Debug\net6.0\Hotel.App.Data.pdb
+C:\Users\wwwsa\source\repos\Hotel.API.App\Hotel.Repositorys\obj\Debug\net6.0\Hotel.Repositorys.csproj.AssemblyReference.cache
+C:\Users\wwwsa\source\repos\Hotel.API.App\Hotel.Repositorys\obj\Debug\net6.0\Hotel.Repositorys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwsa\source\repos\Hotel.API.App\Hotel.Repositorys\obj\Debug\net6.0\Hotel.Repositorys.AssemblyInfoInputs.cache
+C:\Users\wwwsa\source\repos\Hotel.API.App\Hotel.Repositorys\obj\Debug\net6.0\Hotel.Repositorys.AssemblyInfo.cs
+C:\Users\wwwsa\source\repos\Hotel.API.App\Hotel.Repositorys\obj\Debug\net6.0\Hotel.Repositorys.csproj.CoreCompileInputs.cache
+C:\Users\wwwsa\source\repos\Hotel.API.App\Hotel.Repositorys\obj\Debug\net6.0\Hotel.Repositorys.csproj.CopyComplete
+C:\Users\wwwsa\source\repos\Hotel.API.App\Hotel.Repositorys\obj\Debug\net6.0\Hotel.Repositorys.dll
+C:\Users\wwwsa\source\repos\Hotel.API.App\Hotel.Repositorys\obj\Debug\net6.0\refint\Hotel.Repositorys.dll
+C:\Users\wwwsa\source\repos\Hotel.API.App\Hotel.Repositorys\obj\Debug\net6.0\Hotel.Repositorys.pdb
+C:\Users\wwwsa\source\repos\Hotel.API.App\Hotel.Repositorys\obj\Debug\net6.0\ref\Hotel.Repositorys.dll
